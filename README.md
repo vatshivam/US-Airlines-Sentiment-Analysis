@@ -5,5 +5,5 @@
 ## File: classifyLogistic
 #### This file contains the code to load and clean the data. Also contains the code to transform the data and feed it to the mmultinomial logistic regression classifier.
 
-## File Remaining Files
+## Remaining Files
 #### Train Test and Pred contains the training, testing and predictions respectively.
